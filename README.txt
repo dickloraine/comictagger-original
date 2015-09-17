@@ -1,3 +1,7 @@
+This is just a copy of the original code from http://code.google.com/p/comictagger/ for my personal use.
+I don't do any development on it.
+
+
 ComicTagger is a multi-platform app for writing metadata to digital comics, written in Python and PyQt.
 
 Features:
